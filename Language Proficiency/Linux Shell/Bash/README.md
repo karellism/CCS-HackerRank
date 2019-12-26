@@ -1,5 +1,4 @@
-## Linux Shell > Bash
-## [Linux Shell](https://www.hackerrank.com/domains/shell)
+## [Linux Shell > Bash](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=bash)
 
 |Subdomain|Problem Name|Problem Link|Language|Solution Link|
 ---|---|---|---|---
