@@ -22,6 +22,7 @@ Table Of Contents
   * Python
   * Ruby
   * Linux Shell
+  * Functional Programming
 
 * Problem Solving
   
