@@ -2,7 +2,7 @@
 
 | ID | Name                                             | Solved | Subdomain | Problem          |
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-| 1  | [Let's Echo](Language Proficiency/Linux Shell/Bash/Let's Echo/solution.sh)                 | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    | [Problem](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)                     |
+| 1  | [Let's Echo](Bash/Let's Echo/README.md)                 | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    | [Problem](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)                     |
 | 2  | [Looping and Skipping](Problem2/README.md)                | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
 | 3  | [A Personalized Echo](Problem1/README.md)                 | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
 | 4  | [Looping with Numbers](Problem2/README.md)                | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
