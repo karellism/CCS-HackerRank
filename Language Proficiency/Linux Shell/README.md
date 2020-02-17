@@ -19,3 +19,22 @@
 | 14  | [Cut #3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
 | 15  | [Cut #4](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
 | 16  | [Cut #5](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 17  | [Cut #6](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 18  | [Cut #7](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 19  | [Cut #8](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 20  | [Cut #9](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 21  | [Head of a Text File #1](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 22  | [Head of a Text File #2](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 23  | [Middle of a Text File](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 24  | [Tail of a Text File #1](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 25  | [Tail of a Text File #2](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 26  | ['Tr' Command #1](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 27  | ['Tr' Command #2](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 28  | ['Tr' Command #3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 29  | [Sort Command #1](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 30  | [Sort Command #2](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |    
+
+
+
+
+
