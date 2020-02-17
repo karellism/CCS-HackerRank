@@ -46,13 +46,18 @@
 | 41  | [Paste - 3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
 | 42  | [Paste - 4](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-| 43  | [Paste - 2](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
-| 44  | [Paste - 3](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
-| 45  | [Paste - 4](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 43  | [Read in an Array](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 44  | [Slice an Array](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 45  | [Filter an Array with Patterns](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 46  | [Concatenate an array with itself](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 47  | [Display an element of an array](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 48  | [Count the number of elements in an Array](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 49  | [Remove the First Capital Letter from Each Element](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 50  | [Lonely Integer - Bash!](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-| 43  | [Paste - 2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
-| 44  | [Paste - 3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
-| 45  | [Paste - 4](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 51  | [Paste - 2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 52  | [Paste - 3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 53  | [Paste - 4](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
 
 
