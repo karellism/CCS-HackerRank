@@ -46,9 +46,13 @@
 | 41  | [Paste - 3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
 | 42  | [Paste - 4](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-
+| 43  | [Paste - 2](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 44  | [Paste - 3](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
+| 45  | [Paste - 4](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-
+| 43  | [Paste - 2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 44  | [Paste - 3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 45  | [Paste - 4](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
 
 
