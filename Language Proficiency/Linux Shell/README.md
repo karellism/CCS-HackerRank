@@ -14,8 +14,8 @@
 | 10  | [Compute the Average](Problem2/README.md)                | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
 | 11  | [Functions and Fractals - Recursive Trees - Bash!](Problem2/README.md)                | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-| 12  | [Let's Echo](/README.md)                 | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
-| 13  | [Looping and Skipping](Problem2/README.md)                | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
-| 14  | [A Personalized Echo](Problem1/README.md)                 | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
-| 15  | [Looping with Numbers](Problem2/README.md)                | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
-| 16  | [The World of Numbers](Problem1/README.md)                 | Yes    | [Bash](https://www.hackerrank.com/domains/shell)    |                          |
+| 12  | [Let's Echo](/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 13  | [Looping and Skipping](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 14  | [A Personalized Echo](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 15  | [Looping with Numbers](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 16  | [The World of Numbers](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
