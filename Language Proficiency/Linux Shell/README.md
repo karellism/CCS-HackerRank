@@ -16,6 +16,6 @@
 |----|--------------------------------------------------|--------|-----------|--------------------------|
 | 12  | [Cut #1](/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
 | 13  | [Cut #2](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
-| 14  | [A Personalized Echo](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
-| 15  | [Looping with Numbers](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
-| 16  | [The World of Numbers](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 14  | [Cut #3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 15  | [Cut #4](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 16  | [Cut #5](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
