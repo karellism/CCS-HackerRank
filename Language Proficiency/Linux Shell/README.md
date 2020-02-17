@@ -33,8 +33,22 @@
 | 28  | ['Tr' Command #3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
 | 29  | [Sort Command #1](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
 | 30  | [Sort Command #2](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |    
+| 31  | [Sort Command #3](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 32  | [Sort Command #4](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+| 33  | [Sort Command #5](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 34  | [Sort Command #6](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |    
+| 35  | [Sort Command #7](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 36  | ['Uniq' Command #1](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+| 37  | ['Uniq' Command #2](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+| 38  | ['Uniq' Command #3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+| 39  | [Paste - 1](Problem2/README.md)                | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    |                          |
+| 40  | [Paste - 2](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+| 41  | [Paste - 3](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+| 42  | [Paste - 4](Problem1/README.md)                 | Yes    | [Text Processing](https://www.hackerrank.com/domains/shell)    | 
+|----|--------------------------------------------------|--------|-----------|--------------------------|
 
+|----|--------------------------------------------------|--------|-----------|--------------------------|
 
-
+|----|--------------------------------------------------|--------|-----------|--------------------------|
 
 
