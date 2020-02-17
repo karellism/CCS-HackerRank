@@ -55,9 +55,18 @@
 | 49  | [Remove the First Capital Letter from Each Element](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
 | 50  | [Lonely Integer - Bash!](Problem1/README.md)                 | Yes    | [Arrays in Bash](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-| 51  | [Paste - 2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
-| 52  | [Paste - 3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
-| 53  | [Paste - 4](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 51  | ['Awk' - 1](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 52  | ['Awk' - 2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 53  | ['Awk' - 3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 54  | ['Awk' - 4](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 55  | ['Grep' - A](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 56  | ['Grep' - B](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 57  | ['Grep' #1](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 58  | ['Grep' #2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 59  | ['Grep' #3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 60  | ['Sed' command #1](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 60  | ['Sed' command #2](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 60  | ['Sed' command #3](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 60  | ['Sed' command #4](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
+| 60  | ['Sed' command #5](Problem1/README.md)                 | Yes    | [Grep Sed Awk](https://www.hackerrank.com/domains/shell)    | 
 |----|--------------------------------------------------|--------|-----------|--------------------------|
-
-
