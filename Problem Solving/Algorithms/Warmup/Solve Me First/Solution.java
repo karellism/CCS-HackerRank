@@ -1,6 +1,6 @@
 /*  My solution in Java to https://www.hackerrank.com/challenges/solve-me-first/
     By Karel Vanhelden
-    Karellism (www.karellism.com) */
+    Karellism - https://www.karellism.com */
 
 import java.io.*;
 import java.util.*;
