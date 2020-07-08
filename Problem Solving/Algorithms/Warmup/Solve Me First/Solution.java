@@ -1,5 +1,6 @@
-// Solution to Algorithms -> Warmup -> Solve Me First in Java
-// By Karel Vanhelden
+/*  My solution in Java to https://www.hackerrank.com/challenges/solve-me-first/
+    By Karel Vanhelden
+    Karellism (www.karellism.com) */
 
 import java.io.*;
 import java.util.*;
@@ -12,7 +13,6 @@ public class Solution {
         return a+b;
    }
 
-   
  public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int a;
