@@ -2,7 +2,7 @@
 
 | Subdomain | Difficulty | Challenge | Solution |
 |:--:|:--:|:--:|:--:|
-| Introduction | Easy | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |[WelcomeToJava.java](LANGUAGE%20PROFICIENCY/Java/Introduction/WelcomeToJava.java)
+| Introduction | Easy | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) |[WelcomeToJava.java](Introduction/WelcomeToJava.java)
 | Introduction | Easy | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | [JavaStdInAndStdOut1.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaStdInAndStdOut1.java)
 | Introduction | Easy |[Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)| [JavaIfElse.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaIfElse.java)
 | Introduction | Easy | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | [JavaOutputFormatting.java](LANGUAGE%20PROFICIENCY/Java/Introduction/JavaOutputFormatting.java)
