@@ -14,7 +14,9 @@ Table Of Contents
 
 ---
 
-* Language Proficiency
+* [Language Proficiency](//.md)
+
+
   
   * C
   * C++
