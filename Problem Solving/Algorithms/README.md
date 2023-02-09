@@ -12,6 +12,11 @@ Problem Solving -> Algorithms - Table Of Contents
 
 ---
 
+## Algorithms
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
 - Warmup
 
 - Implementation
