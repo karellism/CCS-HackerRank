@@ -6,7 +6,7 @@ Solutions to HackerRank Problems
 
 In C, C++, Java, Ruby, Python, BASH, SQL, ...
 
-By Karel "Karellism" Vanhelden - https://www.karellism.com
+By Karel "Karellism" Vanhelden
 
 ---
 
@@ -14,10 +14,8 @@ Table Of Contents
 
 ---
 
-* [Language Proficiency](//.md)
+### [Language Proficiency](//.md)
 
-
-  
   * C
   * C++
   * Java
@@ -26,13 +24,13 @@ Table Of Contents
   * Linux Shell
   * Functional Programming
 
-* Problem Solving
+### [Problem Solving](//.md)
   
   * Algorithms
   * Data Structures
   * Mathematics
 
-* Specialized Skills
+### [Specialized Skills](//.md)
   
   * Artificial Intelligence
   * Databases
@@ -40,7 +38,7 @@ Table Of Contents
   * Regex
   * 
 
-* Tutorials
+### [Tutorials](//.md)
   
   * 30 Days Of Code
   * 10 Days Of JavaScript 
