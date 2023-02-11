@@ -13,36 +13,89 @@ Problem Solving -> Algorithms - Table Of Contents
 ---
 
 ## Algorithms
+
+### Warmup
+
 | Subdomain | Difficulty | Challenge | Solution |
 |:---------:|:----------:|:---------:|:--------:|
 |Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- Warmup
+### Implementation
 
-- Implementation
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- Strings
+### Strings
 
-- Sorting
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- Search
+### Sorting
 
-- Graph Theory
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- Greedy
+### Search
 
-- Dynamic Programming
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- Constructive Algorithms
+### Graph Theory
 
-- Bit Manipulation
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Warmup|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- Recursion
+### Greedy
 
-- Game Theory
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Greedy|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
-- NP Complete
+### Dynamic Programming
 
-- Debugging
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Dynamic Programming|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
+### Constructive Algorithms
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Constructive Algorithms|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
+### Bit Manipulation
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Bit Manipulation|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
+### Recursion
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Recursion|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
+### Game Theory
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Game Theory|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
+### NP Complete
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|NP Complete|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
+
+### Debugging
+
+| Subdomain | Difficulty | Challenge | Solution |
+|:---------:|:----------:|:---------:|:--------:|
+|Debugging|Easy|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)|[Solution.java](Algorithms/Warnup/Solution.java)|
 
 ---
