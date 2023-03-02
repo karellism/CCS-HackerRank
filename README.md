@@ -1,10 +1,9 @@
 ## Karellism's CCS
 ## Code Challenge Solutions - HackerRank
-## HackerRank - https://www.hackerrank.com/
+## [HackerRank](https://www.hackerrank.com/)
 
-Solutions to HackerRank Problems
-
-In C, C++, Java, Ruby, Python, BASH, SQL, ...
+Solutions to HackerRank Problems    
+In C, C++, Java, Ruby, Python, BASH, SQL, ...   
 
 By Karel "Karellism" Vanhelden
 
