@@ -1,11 +1,11 @@
 ## C 
-Solutions to problems for <a href="#" target="_blank">HackerRank/a>.
+Solutions to problems for <a href="#" target="_blank">HackerRank</a>.
 By Karel "Karellism" Vanhelden
 
 ## Introduction
 | ID | Name                                             | Solved | Java | C++ | Other Solutions          |
 |----|--------------------------------------------------|--------|------|-----|--------------------------|
-| 1  | [Sum A+B](Problem1/README.md)                    | Yes    | x    |     |                          |
+| 1  | [Hello World](Problem1/README.md)                    | Yes    | x    |     |                          |
 | 2  | [Sum in Loop](Problem2/README.md)                | Yes    | x    |     |                          |
 | 3  | [Sums in Loops](Problem4/README.md)              | Yes    | x    |     |                          |
 | 4  | [Minimum of Two](Problem5/README.md)             | Yes    | x    |     |                          |
